@@ -7,8 +7,8 @@ Built a command-line application from scratch to manage a company's employee dat
 ![Capture](https://user-images.githubusercontent.com/82787571/197275974-08e0c444-3eaf-48a5-8338-255ce198e8ec.PNG)
 
 ## Acceptance Criteria
-GIVEN a command-line application that accepts user input
-WHEN I start the application
+- GIVEN a command-line application that accepts user input
+- WHEN I start the application
 THEN I am presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role
 WHEN I choose to view all departments
 THEN I am presented with a formatted table showing department names and department ids
