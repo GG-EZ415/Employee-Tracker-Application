@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker-application",
+  "version": "1.0.0",
+  "description": "an app to track employees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/GG-EZ415/Employee-Tracker-Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GG-EZ415/Employee-Tracker-Application/issues"
+  },
+  "homepage": "https://github.com/GG-EZ415/Employee-Tracker-Application#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}

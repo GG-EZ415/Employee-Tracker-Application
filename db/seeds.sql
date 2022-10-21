@@ -1,4 +1,4 @@
-USE riotgames_db;
+USE gamecompany_db;
 
 INSERT INTO department (department_name)
 VALUES ("Design"),
@@ -24,4 +24,8 @@ VALUES ("Game Play Designer", 111.912, 1),
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
 VALUES ("Clark", "Kent", 4, 4),
        ("Bruce", "Wayne", 1, 1),
-       
+       ("Diana", "Prince" 2, 2),
+       ("Barry", "Allen" 3, 3),
+       ("Hal", "Jordan" 5, 5),
+       ("Arthur", "Curry" 5, 4),
+       ("Oliver", "Queen" 2, 5);

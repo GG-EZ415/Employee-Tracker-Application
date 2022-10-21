@@ -1,7 +1,7 @@
-DROP DATABASE IF EXISTS riotgames_db;
-CREATE DATABASE riotgames_db;
+DROP DATABASE IF EXISTS gamecompany_db;
+CREATE DATABASE gamecompany_db;
 
-USE riotgames_db;
+USE gamecompany_db;
 
 DROP DATABASE IF EXISTS department;
 DROP DATABASE IF EXISTS worker_roles;
